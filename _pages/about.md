@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Kun!"
+title: "Hello there, 王堃/Kun Wang here"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,4 +17,6 @@ In the current era of data proliferation, an increasing number of individuals ar
 
 Ongoing Projects:
 ======
-Causal Discovery for Spatiotemporal Data
+Causal Discovery for Spatiotemporal Data:
+
+My role involves delving into innovative theoretical concepts within Deep Learning and Causal Discovery, actively contributing to the progression of this field. Presently, I am dedicated to developing resilient Causal Discovery approaches that are specifically designed to extract meaningful insights from complex spatio-temporal data with efficiency and precision.
