@@ -8,13 +8,4 @@ date: 2023-9-25
 location: "San Diego, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+In this role, I supported students in CSE 152A, the introductory Computer Vision. My responsibilities encompassed providing both individual and group tutoring sessions, addressing queries about course content, assignments, and key concepts within computer vision. With a profound grasp of computer vision fundamentals, including image formation, feature extraction, and object detection/segmentation, I played a vital role in helping students navigate this dynamic field.

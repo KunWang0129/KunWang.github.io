@@ -8,13 +8,4 @@ date: 2022-09-25
 location: "San Diego, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I fulfilled the role of an Undergraduate Instructional Assistant and Tutor. My primary focus was on Linear Algebra and Differential Equations. I also extended my support as a math tutor for calculus and MATLAB. My experience included instructing students in mathematical programming, showcasing my adeptness in conveying complex mathematical concepts in a clear and accessible manner.
