@@ -3,7 +3,7 @@ title: "Instructional Assistant for Computer Vision"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2023-teaching-2
-venue: "University 1, Department"
+venue: "University of California San Diego, Department of Computer Science Engineering"
 date: 2023-9-25
 location: "San Diego, California"
 ---
