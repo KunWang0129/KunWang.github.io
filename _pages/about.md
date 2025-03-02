@@ -11,11 +11,12 @@ redirect_from:
 
 
 <!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
-Hello there, Kun Wang/王堃 here.
+Hello there, Kun Wang/王堃 here.\
+*Incoming CS PhD Student @ Princeton University | Mathematics & CS Undergrad @ UC San Diego*
 
-I’m a 4th-year Mathematics and Computer Science undergraduate student at UC San Diego. I'm currently working with [prof. Rose Yu](https://roseyu.com/) and [prof. Yian Ma](https://sites.google.com/view/yianma/home) in the Rose Spatio-Temporal Lab. In the past, I have worked with [prof. Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/) on 3D reasoning ability of Large Language Models. 
+Currently, I am a research assistant advised by [prof. Rose Yu](https://roseyu.com/) and [prof. Yian Ma](https://sites.google.com/view/yianma/home) in the Rose Spatio-Temporal Lab. In the past, I have worked with [prof. Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/) on 3D reasoning ability of Large Language Models. 
 
-As a devoted researcher specializing in Machine Learning and Computer Vision, my pursuit is driven by a keen interest in leveraging the power of artificial intelligence to advance the realm of scientific discovery. My expertise lies in developing cutting-edge AI solutions that hold the potential to revolutionize how we approach and comprehend complex scientific challenges. With a focus on bridging the gap between AI and science, I am dedicated to crafting innovative solutions that unlock new insights, drive breakthroughs, and push the boundaries of knowledge.
+My research interest lies at the intersection of machine learning and scientific domains. I develop interpretable models through causality and generative AI, aiming to address challenges in climate science, healthcare, and dynamical systems.  
 
 Works:
 ======
